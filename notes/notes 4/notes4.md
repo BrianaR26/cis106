@@ -1,4 +1,4 @@
-# Notes 3 : Wildcards
+# Notes 4 : Wildcards
 <hr>
 
 ## Wildcard *
